@@ -2,7 +2,7 @@
 
 <template>
   <div id="cheader">
-    <h1>Cioyu的个人网页</h1>
+    <h1>Cioyu的个人博客</h1>
   </div>
   <p>简介: 网络专业的学生, 喜欢看小说, 偶尔看下番, 玩玩游戏</p>
   <p>折腾GNU/linux的历程:</p>
