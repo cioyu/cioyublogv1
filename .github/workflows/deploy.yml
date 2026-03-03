@@ -21,7 +21,7 @@ jobs:
           cache: npm
       - run: yarn
       - run: yarn build
-      - uses: actions/upload-pages-artifact@@v3
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
 
